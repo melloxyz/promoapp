@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Blasphemous 2",
+    "image": "//thunderkeys.com/cdn/shop/files/logo_f72c15f9-dd9d-4346-8331-96f717b3226a.png?v=1701168764&width=390",
+    "price": "R$ 97,06",
+    "originalPrice": "R$ 109,00",
+    "promotion": "- 11%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Achilles: Legends Untold",
+    "image": "//thunderkeys.com/cdn/shop/files/ac_28da4808-a625-478f-bcf5-7a8b4dd3703c.png?v=1700699372&width=390",
+    "price": "R$ 56,62",
+    "originalPrice": "R$ 73,99",
+    "promotion": "- 23%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "EARTH DEFENSE FORCE 5",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-erath-defenses-5-1.png?v=1699382293&width=350",
+    "price": "R$ 101,91",
+    "originalPrice": "R$ 109,99",
+    "promotion": "- 7%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  }
+]

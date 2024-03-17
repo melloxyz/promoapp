@@ -1,0 +1,776 @@
+[
+  {
+    "name": "Payday 2",
+    "image": "//thunderkeys.com/cdn/shop/files/Payday-2-1.png?v=1702290092&width=390",
+    "price": "R$ 9,71",
+    "originalPrice": "R$ 32,99",
+    "promotion": "- 71%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Homefront: The Revolution - The Wing Skull Pack DLC",
+    "image": "//thunderkeys.com/cdn/shop/products/homefront-wing-skull-pack.png?v=1645795833&width=390",
+    "price": "R$ 0,65",
+    "originalPrice": "R$ 6,29",
+    "promotion": "- 90%",
+    "platform": "Global, Steam",
+    "isDLC": true
+  },
+  {
+    "name": "Homefront: The Revolution - Revolutionary Spirit Pack DLC",
+    "image": "//thunderkeys.com/cdn/shop/products/homefront-spirit-pack.png?v=1645797140&width=390",
+    "price": "R$ 0,65",
+    "originalPrice": "R$ 25,00",
+    "promotion": "- 97%",
+    "platform": "Global, Steam",
+    "isDLC": true
+  },
+  {
+    "name": "The Incredible Adventures of Van Helsing",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_2_2cd13596-a344-4ee6-8bf3-c52dd85a3309.png?v=1703601474&width=390",
+    "price": "R$ 8,74",
+    "originalPrice": "R$ 204,99",
+    "promotion": "- 96%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Goat Simulator",
+    "image": "//thunderkeys.com/cdn/shop/files/Goat-Simulator-1.png?v=1701464825&width=390",
+    "price": "R$ 9,38",
+    "originalPrice": "R$ 32,99",
+    "promotion": "- 72%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "InnerSpace",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_16_b369f6ba-e764-47d4-b436-49f4acda9741.png?v=1707827125&width=390",
+    "price": "R$ 4,21",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 93%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Huntsman: The Orphanage",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_b3ffd7d8-9031-4ba7-a4f1-031754229612.png?v=1696288154&width=390",
+    "price": "R$ 3,24",
+    "originalPrice": "R$ 18,59",
+    "promotion": "- 83%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Crashday Redline Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Crashday-Redline-Edition--1.png?v=1702895932&width=390",
+    "price": "R$ 5,18",
+    "originalPrice": "R$ 23,99",
+    "promotion": "- 78%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Automobilista",
+    "image": "//thunderkeys.com/cdn/shop/files/51.png?v=1695692267&width=390",
+    "price": "R$ 9,71",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 84%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Styx: Master of Shadows",
+    "image": "//thunderkeys.com/cdn/shop/files/Styx-Master-of-Shadows--1.png?v=1706003679&width=390",
+    "price": "R$ 7,44",
+    "originalPrice": "R$ 69,99",
+    "promotion": "- 89%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Mortal Kombat 11",
+    "image": "//thunderkeys.com/cdn/shop/files/Mortal-Kombat-11.png?v=1702719672&width=390",
+    "price": "R$ 15,21",
+    "originalPrice": "R$ 299,99",
+    "promotion": "- 95%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Injustice 2 Legendary Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/159.png?v=1698891647&width=390",
+    "price": "R$ 18,44",
+    "originalPrice": "R$ 279,99",
+    "promotion": "- 93%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Mad Max",
+    "image": "//thunderkeys.com/cdn/shop/files/30.png?v=1698194475&width=390",
+    "price": "R$ 17,15",
+    "originalPrice": "R$ 89,99",
+    "promotion": "- 81%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Assetto Corsa",
+    "image": "//thunderkeys.com/cdn/shop/files/Assetto-Corsa-logo.png?v=1701080003&width=390",
+    "price": "R$ 19,41",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 68%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dead Island Definitive Collection",
+    "image": "//thunderkeys.com/cdn/shop/files/32.png?v=1698195958&width=390",
+    "price": "R$ 19,09",
+    "originalPrice": "R$ 223,00",
+    "promotion": "- 91%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "The Evil Within",
+    "image": "//thunderkeys.com/cdn/shop/files/34.png?v=1695590765&width=390",
+    "price": "R$ 11,32",
+    "originalPrice": "R$ 49,99",
+    "promotion": "- 77%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Sleeping Dogs Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Sleeping-Dogs-Definitive-Edition-logo.png?v=1700301497&width=390",
+    "price": "R$ 19,09",
+    "originalPrice": "R$ 55,99",
+    "promotion": "- 66%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dishonored Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/products/dixo.png?v=1644840665&width=390",
+    "price": "R$ 11,97",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 80%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Middle-earth Shadow of Mordor GOTY",
+    "image": "//thunderkeys.com/cdn/shop/products/goty_2a760f60-7c81-4dd6-9b6e-693d11e5dd05.png?v=1646220135&width=390",
+    "price": "R$ 19,41",
+    "originalPrice": "R$ 89,90",
+    "promotion": "- 78%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Sniper Elite 3",
+    "image": "//thunderkeys.com/cdn/shop/files/LITE.png?v=1701993800&width=390",
+    "price": "R$ 17,15",
+    "originalPrice": "R$ 88,99",
+    "promotion": "- 81%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dead Island Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/60.png?v=1695950913&width=390",
+    "price": "R$ 15,21",
+    "originalPrice": "R$ 99,00",
+    "promotion": "- 85%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Assassin's Creed II",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-assassins-creed-2-1.png?v=1697238872&width=350",
+    "price": "R$ 18,44",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 69%",
+    "platform": "Global, Ubisoft Connect",
+    "isDLC": false
+  },
+  {
+    "name": "Mortal Kombat 11 Ultimate Edition",
+    "image": "//thunderkeys.com/cdn/shop/products/ulti_bd5b9526-f8ae-4104-9345-4cff920835f0.png?v=1646330258&width=390",
+    "price": "R$ 25,88",
+    "originalPrice": "R$ 279,99",
+    "promotion": "- 91%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dying Light - The Following Enhanced Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/73.png?v=1698802013&width=390",
+    "price": "R$ 22,32",
+    "originalPrice": "R$ 74,99",
+    "promotion": "- 70%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Ori and the Blind Forest Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-ori-and-the-blind-forest1.png?v=1697159126&width=350",
+    "price": "R$ 24,91",
+    "originalPrice": "R$ 99,00",
+    "promotion": "- 75%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "7 Days to Die",
+    "image": "//thunderkeys.com/cdn/shop/files/7DAYSTODIEGAMECOVER.png?v=1695390664&width=390",
+    "price": "R$ 28,79",
+    "originalPrice": "R$ 44,99",
+    "promotion": "- 36%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Maneater",
+    "image": "//thunderkeys.com/cdn/shop/files/Maneater-1.png?v=1702420293&width=390",
+    "price": "R$ 21,03",
+    "originalPrice": "R$ 75,49",
+    "promotion": "- 72%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Metro Exodus Gold Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/10_a882b65b-2e7f-46bc-87c8-4c0ab1b47ea2.png?v=1695687328&width=390",
+    "price": "R$ 29,12",
+    "originalPrice": "R$ 199,00",
+    "promotion": "- 85%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Sniper Elite 4",
+    "image": "//thunderkeys.com/cdn/shop/files/175.png?v=1699212451&width=390",
+    "price": "R$ 24,91",
+    "originalPrice": "R$ 105,99",
+    "promotion": "- 76%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Just Cause 3 XXL Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_1_25_37a397cb-07c5-4cb1-8d56-17bdb6613319.png?v=1700052029&width=390",
+    "price": "R$ 24,27",
+    "originalPrice": "R$ 108,28",
+    "promotion": "- 78%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Naruto Shippuden Ultimate Ninja Storm 2",
+    "image": "//thunderkeys.com/cdn/shop/files/Naruto-Shippuden-Ultimate-Ninja-Storm-2-1.png?v=1702426805&width=390",
+    "price": "R$ 23,94",
+    "originalPrice": "R$ 79,90",
+    "promotion": "- 70%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Age of Empires III Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/fedasas.png?v=1695685775&width=390",
+    "price": "R$ 22,97",
+    "originalPrice": "R$ 36,99",
+    "promotion": "- 38%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dragon Age: Inquisition",
+    "image": "//thunderkeys.com/cdn/shop/files/Dragon-Age-Inquisition.png?v=1699919699&width=390",
+    "price": "R$ 22,65",
+    "originalPrice": "R$ 199,00",
+    "promotion": "- 89%",
+    "platform": "Global, EA App",
+    "isDLC": false
+  },
+  {
+    "name": "Resident Evil 2 / Biohazard RE2",
+    "image": "//thunderkeys.com/cdn/shop/files/Resident-Evil-2-Biohazard-re2.png?v=1700650657&width=390",
+    "price": "R$ 37,21",
+    "originalPrice": "R$ 169,90",
+    "promotion": "- 78%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Naruto Shippuden Ultimate Ninja Storm 4",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-naruto1.png?v=1695682309&width=350",
+    "price": "R$ 37,21",
+    "originalPrice": "R$ 77,50",
+    "promotion": "- 52%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Rise of the Tomb Raider 20th Anniversary Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/31.png?v=1698195027&width=390",
+    "price": "R$ 30,09",
+    "originalPrice": "R$ 124,99",
+    "promotion": "- 76%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Max Payne 3 Complete Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Rockstar_1_989795be-543e-4303-9715-77c00954e2e5.png?v=1700608639&width=390",
+    "price": "R$ 34,62",
+    "originalPrice": "R$ 105,00",
+    "promotion": "- 67%",
+    "platform": "Global, Rockstar",
+    "isDLC": false
+  },
+  {
+    "name": "Assetto Corsa Ultimate Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Assetto-Corsa-Ultimate-Edition--logo.png?v=1704380215&width=390",
+    "price": "R$ 35,27",
+    "originalPrice": "R$ 262,93",
+    "promotion": "- 87%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "One Piece World Seeker Deluxe Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_1_f4565767-6ecd-43c2-a0e9-37a0c6d98a3a.png?v=1704930763&width=390",
+    "price": "R$ 35,27",
+    "originalPrice": "R$ 349,90",
+    "promotion": "- 90%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "The Evil Within 2",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_3_baab79f2-51ac-4e83-a08d-9e919033f36c.png?v=1701350270&width=390",
+    "price": "R$ 32,03",
+    "originalPrice": "R$ 155,00",
+    "promotion": "- 79%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Metro Exodus",
+    "image": "//thunderkeys.com/cdn/shop/files/XXX.png?v=1695687096&width=390",
+    "price": "R$ 30,09",
+    "originalPrice": "R$ 149,00",
+    "promotion": "- 80%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Naruto Shippuden Ultimate Ninja Storm 4 Road to Boruto",
+    "image": "//thunderkeys.com/cdn/shop/files/Naruto-Shippuden-Ultimate-Ninja-Storm-4-Road-to-Boruto-2.png?v=1706625403&width=390",
+    "price": "R$ 46,27",
+    "originalPrice": "R$ 259,70",
+    "promotion": "- 82%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Shadow of the Tomb Raider Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Shadow-of-the-Tomb-Raider-Definitive-Edition-1.png?v=1702427081&width=390",
+    "price": "R$ 49,50",
+    "originalPrice": "R$ 374,96",
+    "promotion": "- 87%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dragon Ball Xenoverse 2",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_14.png?v=1703639646&width=390",
+    "price": "R$ 49,18",
+    "originalPrice": "R$ 77,50",
+    "promotion": "- 37%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Assassin's Creed Unity",
+    "image": "//thunderkeys.com/cdn/shop/files/UPLAY_509f139b-e4e5-4d93-8195-00ef83d30748.png?v=1701213743&width=390",
+    "price": "R$ 41,41",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 31%",
+    "platform": "Global, Ubisoft Connect",
+    "isDLC": false
+  },
+  {
+    "name": "Just Cause 4 Gold Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Just-Cause-4-Gold-Edition.png?v=1703037397&width=390",
+    "price": "R$ 47,56",
+    "originalPrice": "R$ 383,49",
+    "promotion": "- 88%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Life is Strange 2 Complete Season",
+    "image": "//thunderkeys.com/cdn/shop/products/completes.png?v=1646135102&width=390",
+    "price": "R$ 45,30",
+    "originalPrice": "R$ 96,00",
+    "promotion": "- 53%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Remnant From the Ashes",
+    "image": "//thunderkeys.com/cdn/shop/products/axes.png?v=1662117734&width=390",
+    "price": "R$ 46,91",
+    "originalPrice": "R$ 75,49",
+    "promotion": "- 38%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "The Dark Pictures Anthology - Man of Medan",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_4_8cbbf70b-980d-4809-948f-484b5a5cf1d3.png?v=1706828636&width=390",
+    "price": "R$ 43,03",
+    "originalPrice": "R$ 84,90",
+    "promotion": "- 49%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Days Gone",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_1_8376a3fe-e327-452c-b6cc-436ababb6325.png?v=1698875481&width=390",
+    "price": "R$ 55,00",
+    "originalPrice": "R$ 199,90",
+    "promotion": "- 72%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Horizon Zero Dawn Complete Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_4_0abd3427-f9c4-46f3-bc07-a24f3f19d69c.png?v=1701217621&width=390",
+    "price": "R$ 55,97",
+    "originalPrice": "R$ 199,90",
+    "promotion": "- 72%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Battlefield 4 Premium Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Battlefield-4-Premium-Edition-1.png?v=1702549529&width=390",
+    "price": "R$ 57,27",
+    "originalPrice": "R$ 199,00",
+    "promotion": "- 71%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Naruto Shippuden: Ultimate Ninja Storm Trilogy",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_a1d6c26a-6390-4def-b314-4dc6f5e3142b.png?v=1697635343&width=390",
+    "price": "R$ 58,88",
+    "originalPrice": "R$ 160,59",
+    "promotion": "- 63%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Insurgency: Sandstorm",
+    "image": "//thunderkeys.com/cdn/shop/files/sams.png?v=1699120929&width=390",
+    "price": "R$ 55,97",
+    "originalPrice": "R$ 99,90",
+    "promotion": "- 44%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Digimon Survive",
+    "image": "//thunderkeys.com/cdn/shop/files/diog.png?v=1698208823&width=390",
+    "price": "R$ 57,59",
+    "originalPrice": "R$ 259,90",
+    "promotion": "- 78%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "OUTRIDERS",
+    "image": "//thunderkeys.com/cdn/shop/files/ris.png?v=1699149044&width=390",
+    "price": "R$ 52,74",
+    "originalPrice": "R$ 189,90",
+    "promotion": "- 72%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dragon Ball Xenoverse 2 - Super Pass DLC",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-dragon-ball-xenoverse-season-pass1.png?v=1699223203&width=350",
+    "price": "R$ 55,32",
+    "originalPrice": "R$ 114,90",
+    "promotion": "- 52%",
+    "platform": "Global, Steam",
+    "isDLC": true
+  },
+  {
+    "name": "Battlefield 4 Premium Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Battlefield-4-Premium-Edition.png?v=1699918945&width=390",
+    "price": "R$ 58,24",
+    "originalPrice": "R$ 199,00",
+    "promotion": "- 71%",
+    "platform": "Global, EA App",
+    "isDLC": false
+  },
+  {
+    "name": "Remnant From the Ashes Complete Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-remnant-from-the-ashes1.png?v=1695774444&width=350",
+    "price": "R$ 55,00",
+    "originalPrice": "R$ 97,00",
+    "promotion": "- 43%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "The Elder Scrolls V Skyrim Special Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_1_06b22ce9-1c12-4957-bba5-219d14e53c3d.png?v=1701346977&width=390",
+    "price": "R$ 60,83",
+    "originalPrice": "R$ 149,00",
+    "promotion": "- 59%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dark Souls 3 - Season Pass DLC",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_43.png?v=1703801680&width=390",
+    "price": "R$ 63,09",
+    "originalPrice": "R$ 94,90",
+    "promotion": "- 34%",
+    "platform": "Global, Steam",
+    "isDLC": true
+  },
+  {
+    "name": "Assassin's Creed IV Black Flag Gold Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Assassin_s-Creed-IV-Black-Flag-Gold-Edition-1.png?v=1702934597&width=390",
+    "price": "R$ 63,09",
+    "originalPrice": "R$ 119,99",
+    "promotion": "- 47%",
+    "platform": "Global, Ubisoft Connect",
+    "isDLC": false
+  },
+  {
+    "name": "Payday 3 LATAM",
+    "image": "//thunderkeys.com/cdn/shop/files/daypast.png?v=1699120805&width=390",
+    "price": "R$ 62,44",
+    "originalPrice": "R$ 199,00",
+    "promotion": "- 69%",
+    "platform": "America Restricted, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Battlefield 1 Revolution Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Battlefield-1-Revolution-Edition-logo.png?v=1699613454&width=390",
+    "price": "R$ 67,94",
+    "originalPrice": "R$ 199,00",
+    "promotion": "- 66%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Fallout 4 GOTY",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-fallout41.png?v=1699225832&width=350",
+    "price": "R$ 60,83",
+    "originalPrice": "R$ 119,99",
+    "promotion": "- 49%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "F1 2022",
+    "image": "//thunderkeys.com/cdn/shop/files/EA-APP_1_0da67e0e-c11a-4f96-9634-0b686f18d801.png?v=1707832471&width=390",
+    "price": "R$ 67,94",
+    "originalPrice": "R$ 249,00",
+    "promotion": "- 73%",
+    "platform": "Global, EA App",
+    "isDLC": false
+  },
+  {
+    "name": "Tekken 7 Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-tekken-7-1.png?v=1698889576&width=350",
+    "price": "R$ 70,21",
+    "originalPrice": "R$ 444,90",
+    "promotion": "- 84%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Battlefield 2042",
+    "image": "//thunderkeys.com/cdn/shop/files/Battlefield-2042-1.png?v=1704362018&width=390",
+    "price": "R$ 77,65",
+    "originalPrice": "R$ 249,00",
+    "promotion": "- 69%",
+    "platform": "Global, EA App",
+    "isDLC": false
+  },
+  {
+    "name": "Arma 3",
+    "image": "//thunderkeys.com/cdn/shop/products/arma_9656d134-a0a6-4c3c-98ac-d6d8b0c3acc3.png?v=1678474475&width=350",
+    "price": "R$ 79,27",
+    "originalPrice": "R$ 99,99",
+    "promotion": "- 21%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "GTA V - Premium Online Edition & Great White Shark Card Bundle DLC",
+    "image": "//thunderkeys.com/cdn/shop/files/Rockstar_5_1.png?v=1701466738&width=390",
+    "price": "R$ 77,65",
+    "originalPrice": "R$ 145,88",
+    "promotion": "- 47%",
+    "platform": "Global, Rockstar",
+    "isDLC": true
+  },
+  {
+    "name": "Marvel's Guardians of the Galaxy",
+    "image": "//thunderkeys.com/cdn/shop/files/gus.png?v=1695687826&width=390",
+    "price": "R$ 77,65",
+    "originalPrice": "R$ 249,99",
+    "promotion": "- 69%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Call of Duty 4: Modern Warfare",
+    "image": "//thunderkeys.com/cdn/shop/files/1_dcf5ce39-8030-47e5-9f54-3f2958e491be.png?v=1706351557&width=390",
+    "price": "R$ 74,09",
+    "originalPrice": "R$ 91,90",
+    "promotion": "- 19%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Crusader Kings III",
+    "image": "//thunderkeys.com/cdn/shop/files/114.png?v=1697676595&width=390",
+    "price": "R$ 79,27",
+    "originalPrice": "R$ 179,99",
+    "promotion": "- 56%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Far Cry 4 Gold Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/UPLAY_f5264055-45cb-4a1f-88d3-0f8937b0b6db.png?v=1700775288&width=390",
+    "price": "R$ 77,00",
+    "originalPrice": "R$ 179,99",
+    "promotion": "- 57%",
+    "platform": "ROW, Ubisoft Connect",
+    "isDLC": false
+  },
+  {
+    "name": "Assassin's Creed Ezio Trilogy",
+    "image": "//thunderkeys.com/cdn/shop/files/Assassin_s-Creed-Ezio-Trilogy-1.png?v=1701857364&width=390",
+    "price": "R$ 71,18",
+    "originalPrice": "R$ 119,99",
+    "promotion": "- 41%",
+    "platform": "Global, Ubisoft Connect",
+    "isDLC": false
+  },
+  {
+    "name": "Disciples: Liberation Deluxe Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Disciples-Liberation-Deluxe-Edition-1.png?v=1700772688&width=390",
+    "price": "R$ 77,65",
+    "originalPrice": "R$ 219,00",
+    "promotion": "- 65%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Ori and the Blind Forest Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-ori-and-the-blind-forest1.png?v=1697159126&width=350",
+    "price": "R$ 24,91",
+    "originalPrice": "R$ 99,00",
+    "promotion": "- 75%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dead Island Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/60.png?v=1695950913&width=390",
+    "price": "R$ 15,21",
+    "originalPrice": "R$ 99,00",
+    "promotion": "- 85%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Metro Redux Bundle",
+    "image": "//thunderkeys.com/cdn/shop/files/redutor.png?v=1696467911&width=390",
+    "price": "R$ 13,91",
+    "originalPrice": "R$ 99,00",
+    "promotion": "- 86%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dark Souls 3 - Season Pass DLC",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_43.png?v=1703801680&width=390",
+    "price": "R$ 63,09",
+    "originalPrice": "R$ 94,90",
+    "promotion": "- 34%",
+    "platform": "Global, Steam",
+    "isDLC": true
+  },
+  {
+    "name": "Homefront: The Revolution",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-homefront-the-revolution1.png?v=1696797751&width=350",
+    "price": "R$ 16,82",
+    "originalPrice": "R$ 99,99",
+    "promotion": "- 83%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Insurgency: Sandstorm",
+    "image": "//thunderkeys.com/cdn/shop/files/sams.png?v=1699120929&width=390",
+    "price": "R$ 55,97",
+    "originalPrice": "R$ 99,90",
+    "promotion": "- 44%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Life is Strange 2 Complete Season",
+    "image": "//thunderkeys.com/cdn/shop/products/completes.png?v=1646135102&width=390",
+    "price": "R$ 45,30",
+    "originalPrice": "R$ 96,00",
+    "promotion": "- 53%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Arma 3",
+    "image": "//thunderkeys.com/cdn/shop/products/arma_9656d134-a0a6-4c3c-98ac-d6d8b0c3acc3.png?v=1678474475&width=350",
+    "price": "R$ 79,27",
+    "originalPrice": "R$ 99,99",
+    "promotion": "- 21%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Call of Duty 4: Modern Warfare",
+    "image": "//thunderkeys.com/cdn/shop/files/1_dcf5ce39-8030-47e5-9f54-3f2958e491be.png?v=1706351557&width=390",
+    "price": "R$ 74,09",
+    "originalPrice": "R$ 91,90",
+    "promotion": "- 19%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Accel World vs. Sword Art Online Deluxe Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Accel-World-vs.-Sword-Art-Online-Deluxe-Edition-1.png?v=1706091769&width=390",
+    "price": "R$ 20,71",
+    "originalPrice": "R$ 90,99",
+    "promotion": "- 77%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  }
+]

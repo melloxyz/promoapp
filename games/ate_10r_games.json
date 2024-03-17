@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Payday 2",
+    "image": "//thunderkeys.com/cdn/shop/files/Payday-2-1.png?v=1702290092&width=390",
+    "price": "R$ 9,71",
+    "originalPrice": "R$ 32,99",
+    "promotion": "- 71%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Homefront: The Revolution - The Wing Skull Pack DLC",
+    "image": "//thunderkeys.com/cdn/shop/products/homefront-wing-skull-pack.png?v=1645795833&width=390",
+    "price": "R$ 0,65",
+    "originalPrice": "R$ 6,29",
+    "promotion": "- 90%",
+    "platform": "Global, Steam",
+    "isDLC": true
+  },
+  {
+    "name": "Homefront: The Revolution - Revolutionary Spirit Pack DLC",
+    "image": "//thunderkeys.com/cdn/shop/products/homefront-spirit-pack.png?v=1645797140&width=390",
+    "price": "R$ 0,65",
+    "originalPrice": "R$ 25,00",
+    "promotion": "- 97%",
+    "platform": "Global, Steam",
+    "isDLC": true
+  },
+  {
+    "name": "The Incredible Adventures of Van Helsing",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_2_2cd13596-a344-4ee6-8bf3-c52dd85a3309.png?v=1703601474&width=390",
+    "price": "R$ 8,74",
+    "originalPrice": "R$ 204,99",
+    "promotion": "- 96%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Goat Simulator",
+    "image": "//thunderkeys.com/cdn/shop/files/Goat-Simulator-1.png?v=1701464825&width=390",
+    "price": "R$ 9,38",
+    "originalPrice": "R$ 32,99",
+    "promotion": "- 72%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "InnerSpace",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_16_b369f6ba-e764-47d4-b436-49f4acda9741.png?v=1707827125&width=390",
+    "price": "R$ 4,21",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 93%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Huntsman: The Orphanage",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_b3ffd7d8-9031-4ba7-a4f1-031754229612.png?v=1696288154&width=390",
+    "price": "R$ 3,24",
+    "originalPrice": "R$ 18,59",
+    "promotion": "- 83%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Crashday Redline Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Crashday-Redline-Edition--1.png?v=1702895932&width=390",
+    "price": "R$ 5,18",
+    "originalPrice": "R$ 23,99",
+    "promotion": "- 78%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Automobilista",
+    "image": "//thunderkeys.com/cdn/shop/files/51.png?v=1695692267&width=390",
+    "price": "R$ 9,71",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 84%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Styx: Master of Shadows",
+    "image": "//thunderkeys.com/cdn/shop/files/Styx-Master-of-Shadows--1.png?v=1706003679&width=390",
+    "price": "R$ 7,44",
+    "originalPrice": "R$ 69,99",
+    "promotion": "- 89%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Beat Cop",
+    "image": "//thunderkeys.com/cdn/shop/files/Beat-Cop-1.png?v=1702721939&width=390",
+    "price": "R$ 8,09",
+    "originalPrice": "R$ 27,99",
+    "promotion": "- 71%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Homefront - Exclusive Multiplayer Shotgun DLC",
+    "image": "//thunderkeys.com/cdn/shop/files/46_a1590a32-dfae-4a39-a2ac-4c5d8561d568.png?v=1698279943&width=390",
+    "price": "R$ 0,65",
+    "originalPrice": "R$ 2,19",
+    "promotion": "- 70%",
+    "platform": "Global, Steam",
+    "isDLC": true
+  },
+  {
+    "name": "Need for Speed Unbound - Pre Order DLC",
+    "image": "//thunderkeys.com/cdn/shop/files/EA-APP_10634058-1063-4484-9072-27f7979d74c0.png?v=1700917046&width=390",
+    "price": "R$ 3,24",
+    "originalPrice": "R$ 73,45",
+    "promotion": "- 96%",
+    "platform": "Global, EA App",
+    "isDLC": true
+  },
+  {
+    "name": "Turnip Boy Commits Tax Evasion",
+    "image": "//thunderkeys.com/cdn/shop/files/eva.png?v=1695687202&width=390",
+    "price": "R$ 6,15",
+    "originalPrice": "R$ 28,99",
+    "promotion": "- 79%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Postal 2",
+    "image": "//thunderkeys.com/cdn/shop/files/Postal-2-1.png?v=1701426845&width=390",
+    "price": "R$ 7,44",
+    "originalPrice": "R$ 32,99",
+    "promotion": "- 77%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "The Incredible Adventures of Van Helsing III",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_21.png?v=1704396550&width=390",
+    "price": "R$ 8,74",
+    "originalPrice": "R$ 46,99",
+    "promotion": "- 81%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Call of Juarez - Bound in Blood",
+    "image": "//thunderkeys.com/cdn/shop/files/logo_5e5ac604-0b66-4c4c-909e-9086a0342f1c.png?v=1701099305&width=390",
+    "price": "R$ 9,06",
+    "originalPrice": "R$ 19,99",
+    "promotion": "- 55%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Trapped Dead Lockdown",
+    "image": "//thunderkeys.com/cdn/shop/files/rtopr.png?v=1696292181&width=390",
+    "price": "R$ 2,91",
+    "originalPrice": "R$ 32,99",
+    "promotion": "- 91%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Worms",
+    "image": "//thunderkeys.com/cdn/shop/files/Worms.png?v=1700578459&width=390",
+    "price": "R$ 5,82",
+    "originalPrice": "R$ 13,99",
+    "promotion": "- 58%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Hitman 2: Silent Assassin",
+    "image": "//thunderkeys.com/cdn/shop/files/74.png?v=1696184890&width=390",
+    "price": "R$ 7,76",
+    "originalPrice": "R$ 22,79",
+    "promotion": "- 66%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Escape Dead Island",
+    "image": "//thunderkeys.com/cdn/shop/files/capida.png?v=1699147114&width=390",
+    "price": "R$ 9,71",
+    "originalPrice": "R$ 75,00",
+    "promotion": "- 87%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "The Incredible Adventures of Van Helsing II",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-van-helsing-incredible-adventures1.png?v=1703476998&width=350",
+    "price": "R$ 8,74",
+    "originalPrice": "R$ 46,99",
+    "promotion": "- 81%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  }
+]

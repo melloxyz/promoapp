@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Dark Souls 2 - Scholar of the First Sin",
+    "image": "//thunderkeys.com/cdn/shop/files/Dark-Souls-2.png?v=1698319499&width=390",
+    "price": "R$ 87,36",
+    "originalPrice": "R$ 154,90",
+    "promotion": "- 44%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Final Fantasy XV Windows Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Final-Fantasy-XV-Windows-Edition-1.png?v=1702931185&width=390",
+    "price": "R$ 88,97",
+    "originalPrice": "R$ 125,00",
+    "promotion": "- 29%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Teenage Mutant Ninja Turtles Shredder's Revenge",
+    "image": "//thunderkeys.com/cdn/shop/files/tur_ac76c3c6-7614-4d15-9ad5-268025a3ed11.png?v=1696553239&width=390",
+    "price": "R$ 84,12",
+    "originalPrice": "R$ 94,99",
+    "promotion": "- 11%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "The Elder Scrolls V Skyrim VR",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_1_9c75caf7-b32f-45f2-83e1-ac7e66642711.png?v=1706826182&width=390",
+    "price": "R$ 89,94",
+    "originalPrice": "R$ 199,99",
+    "promotion": "- 55%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "RPG Maker MV",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_5_095f2c15-1d4e-4047-975f-71b238b4a13b.png?v=1704409484&width=390",
+    "price": "R$ 84,12",
+    "originalPrice": "R$ 214,99",
+    "promotion": "- 61%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "World of Final Fantasy Complete Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_2_42c90c9d-1a1a-4cb1-a849-2101a62ba316.png?v=1702336870&width=390",
+    "price": "R$ 82,50",
+    "originalPrice": "R$ 122,00",
+    "promotion": "- 32%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Gloomhaven",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_5_902bce94-830e-41ad-85ae-d4886c951d55.png?v=1705703475&width=390",
+    "price": "R$ 82,50",
+    "originalPrice": "R$ 91,99",
+    "promotion": "- 10%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "GRID Legends Deluxe Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_3.png?v=1709495676&width=390",
+    "price": "R$ 85,74",
+    "originalPrice": "R$ 89,00",
+    "promotion": "- 4%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Guilty Gear -Strive-",
+    "image": "//thunderkeys.com/cdn/shop/files/Guilty-Gear-Strive-1.png?v=1704984956&width=390",
+    "price": "R$ 88,97",
+    "originalPrice": "R$ 173,99",
+    "promotion": "- 49%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Isonzo",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_5_9031a554-5e89-4e6e-9c0d-d0baaade7009.png?v=1703606786&width=390",
+    "price": "R$ 82,50",
+    "originalPrice": "R$ 88,99",
+    "promotion": "- 7%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "maxConcurrentRequests": 1,
+  "minRequestInterval": 1000,
+  "scrapeInterval": 1,
+  "urls": [
+    "https://thunderkeys.com/",
+    "https://thunderkeys.com/collections/ate-10r",
+    "https://thunderkeys.com/collections/ate-20r",
+    "https://thunderkeys.com/collections/ate-30r",
+    "https://thunderkeys.com/collections/ate-40r",
+    "https://thunderkeys.com/collections/ate-50r",
+    "https://thunderkeys.com/collections/ate-60r",
+    "https://thunderkeys.com/collections/ate-70r",
+    "https://thunderkeys.com/collections/ate-80r",
+    "https://thunderkeys.com/collections/ate-90r",
+    "https://thunderkeys.com/collections/acima-de-100r",
+    "https://thunderkeys.com/collections/jogos-ativos-com-stock-com-preco",
+    "https://thunderkeys.com/collections/lancamentos",
+    "https://thunderkeys.com/collections/melhores-precos",
+    "https://thunderkeys.com/collections/adicionados-recentemente",
+    "https://thunderkeys.com/collections/mais-vendidos-1"
+  ]
+}

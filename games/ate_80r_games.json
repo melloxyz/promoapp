@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Tekken 7 Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-tekken-7-1.png?v=1698889576&width=350",
+    "price": "R$ 70,21",
+    "originalPrice": "R$ 444,90",
+    "promotion": "- 84%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Battlefield 2042",
+    "image": "//thunderkeys.com/cdn/shop/files/Battlefield-2042-1.png?v=1704362018&width=390",
+    "price": "R$ 77,65",
+    "originalPrice": "R$ 249,00",
+    "promotion": "- 69%",
+    "platform": "Global, EA App",
+    "isDLC": false
+  },
+  {
+    "name": "Arma 3",
+    "image": "//thunderkeys.com/cdn/shop/products/arma_9656d134-a0a6-4c3c-98ac-d6d8b0c3acc3.png?v=1678474475&width=350",
+    "price": "R$ 79,27",
+    "originalPrice": "R$ 99,99",
+    "promotion": "- 21%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "GTA V - Premium Online Edition & Great White Shark Card Bundle DLC",
+    "image": "//thunderkeys.com/cdn/shop/files/Rockstar_5_1.png?v=1701466738&width=390",
+    "price": "R$ 77,65",
+    "originalPrice": "R$ 145,88",
+    "promotion": "- 47%",
+    "platform": "Global, Rockstar",
+    "isDLC": true
+  },
+  {
+    "name": "Marvel's Guardians of the Galaxy",
+    "image": "//thunderkeys.com/cdn/shop/files/gus.png?v=1695687826&width=390",
+    "price": "R$ 77,65",
+    "originalPrice": "R$ 249,99",
+    "promotion": "- 69%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Call of Duty 4: Modern Warfare",
+    "image": "//thunderkeys.com/cdn/shop/files/1_dcf5ce39-8030-47e5-9f54-3f2958e491be.png?v=1706351557&width=390",
+    "price": "R$ 74,09",
+    "originalPrice": "R$ 91,90",
+    "promotion": "- 19%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Crusader Kings III",
+    "image": "//thunderkeys.com/cdn/shop/files/114.png?v=1697676595&width=390",
+    "price": "R$ 79,27",
+    "originalPrice": "R$ 179,99",
+    "promotion": "- 56%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Far Cry 4 Gold Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/UPLAY_f5264055-45cb-4a1f-88d3-0f8937b0b6db.png?v=1700775288&width=390",
+    "price": "R$ 77,00",
+    "originalPrice": "R$ 179,99",
+    "promotion": "- 57%",
+    "platform": "ROW, Ubisoft Connect",
+    "isDLC": false
+  },
+  {
+    "name": "Assassin's Creed Ezio Trilogy",
+    "image": "//thunderkeys.com/cdn/shop/files/Assassin_s-Creed-Ezio-Trilogy-1.png?v=1701857364&width=390",
+    "price": "R$ 71,18",
+    "originalPrice": "R$ 119,99",
+    "promotion": "- 41%",
+    "platform": "Global, Ubisoft Connect",
+    "isDLC": false
+  },
+  {
+    "name": "Disciples: Liberation Deluxe Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Disciples-Liberation-Deluxe-Edition-1.png?v=1700772688&width=390",
+    "price": "R$ 77,65",
+    "originalPrice": "R$ 219,00",
+    "promotion": "- 65%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "The Dark Pictures Anthology: The Devil in Me",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_efa3d7f2-581d-41e2-803d-6a8be3509e61.png?v=1706825242&width=390",
+    "price": "R$ 74,41",
+    "originalPrice": "R$ 172,45",
+    "promotion": "- 57%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Blood Bowl 3 Black Orcs Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/v1.png?v=1710369709&width=390",
+    "price": "R$ 71,18",
+    "originalPrice": "R$ 107,99",
+    "promotion": "- 34%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "name": "Days Gone",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_1_8376a3fe-e327-452c-b6cc-436ababb6325.png?v=1698875481&width=390",
+    "price": "R$ 55,00",
+    "originalPrice": "R$ 199,90",
+    "promotion": "- 72%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Horizon Zero Dawn Complete Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_4_0abd3427-f9c4-46f3-bc07-a24f3f19d69c.png?v=1701217621&width=390",
+    "price": "R$ 55,97",
+    "originalPrice": "R$ 199,90",
+    "promotion": "- 72%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Battlefield 4 Premium Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Battlefield-4-Premium-Edition-1.png?v=1702549529&width=390",
+    "price": "R$ 57,27",
+    "originalPrice": "R$ 199,00",
+    "promotion": "- 71%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Naruto Shippuden: Ultimate Ninja Storm Trilogy",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_a1d6c26a-6390-4def-b314-4dc6f5e3142b.png?v=1697635343&width=390",
+    "price": "R$ 58,88",
+    "originalPrice": "R$ 160,59",
+    "promotion": "- 63%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Insurgency: Sandstorm",
+    "image": "//thunderkeys.com/cdn/shop/files/sams.png?v=1699120929&width=390",
+    "price": "R$ 55,97",
+    "originalPrice": "R$ 99,90",
+    "promotion": "- 44%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Digimon Survive",
+    "image": "//thunderkeys.com/cdn/shop/files/diog.png?v=1698208823&width=390",
+    "price": "R$ 57,59",
+    "originalPrice": "R$ 259,90",
+    "promotion": "- 78%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "OUTRIDERS",
+    "image": "//thunderkeys.com/cdn/shop/files/ris.png?v=1699149044&width=390",
+    "price": "R$ 52,74",
+    "originalPrice": "R$ 189,90",
+    "promotion": "- 72%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dragon Ball Xenoverse 2 - Super Pass DLC",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-dragon-ball-xenoverse-season-pass1.png?v=1699223203&width=350",
+    "price": "R$ 55,32",
+    "originalPrice": "R$ 114,90",
+    "promotion": "- 52%",
+    "platform": "Global, Steam",
+    "isDLC": true
+  },
+  {
+    "name": "Battlefield 4 Premium Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Battlefield-4-Premium-Edition.png?v=1699918945&width=390",
+    "price": "R$ 58,24",
+    "originalPrice": "R$ 199,00",
+    "promotion": "- 71%",
+    "platform": "Global, EA App",
+    "isDLC": false
+  },
+  {
+    "name": "Remnant From the Ashes Complete Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-remnant-from-the-ashes1.png?v=1695774444&width=350",
+    "price": "R$ 55,00",
+    "originalPrice": "R$ 97,00",
+    "promotion": "- 43%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Tekken 7 Originals Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_1_15_dd9d9497-546c-4740-8403-bd2571e53504.png?v=1706964778&width=390",
+    "price": "R$ 51,12",
+    "originalPrice": "R$ 364,90",
+    "promotion": "- 86%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Disciples: Liberation",
+    "image": "//thunderkeys.com/cdn/shop/files/Disciples-Liberation-logo.png?v=1700770683&width=390",
+    "price": "R$ 59,85",
+    "originalPrice": "R$ 179,00",
+    "promotion": "- 67%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Slender: The Arrival",
+    "image": "//thunderkeys.com/cdn/shop/files/Slender-The-Arrival-1.png?v=1704880799&width=390",
+    "price": "R$ 59,85",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 0%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Astral Ascent",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-astral-ascent1.png?v=1698193367&width=350",
+    "price": "R$ 51,77",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 14%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "World of Final Fantasy Day One Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-world-offinal-fantasy1.png?v=1696633337&width=350",
+    "price": "R$ 52,41",
+    "originalPrice": "R$ 74,00",
+    "promotion": "- 29%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Romancing SaGa 3",
+    "image": "//thunderkeys.com/cdn/shop/files/115.png?v=1697683282&width=390",
+    "price": "R$ 50,47",
+    "originalPrice": "R$ 99,00",
+    "promotion": "- 49%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Chivalry 2 Special Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Chivalry-2-Special-Edition-1.png?v=1702117198&width=390",
+    "price": "R$ 51,77",
+    "originalPrice": "R$ 94,99",
+    "promotion": "- 45%",
+    "platform": "Global, Epic Games",
+    "isDLC": false
+  },
+  {
+    "name": "DJMAX RESPECT V - V EXTENSION IV PACK DLC",
+    "image": "//thunderkeys.com/cdn/shop/files/DJMAX-RESPECT-V---V-EXTENSION-IV-PACK-DLC-1.png?v=1710372688&width=390",
+    "price": "R$ 52,74",
+    "originalPrice": "R$ 73,99",
+    "promotion": "- 29%",
+    "platform": "Global, Steam",
+    "isDLC": true
+  }
+]

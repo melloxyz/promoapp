@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Days Gone",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_1_8376a3fe-e327-452c-b6cc-436ababb6325.png?v=1698875481&width=390",
+    "price": "R$ 55,00",
+    "originalPrice": "R$ 199,90",
+    "promotion": "- 72%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "EA Sports FC 24",
+    "image": "//thunderkeys.com/cdn/shop/files/EA-APP_ccbeea38-51a2-4ee4-adf8-96b2505e1d00.png?v=1698792360&width=1174",
+    "price": "R$ 132,65",
+    "originalPrice": "R$ 359,00",
+    "promotion": "- 63%",
+    "platform": "Global, EA App",
+    "isDLC": false
+  },
+  {
+    "name": "Ori and the Blind Forest Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-ori-and-the-blind-forest1.png?v=1697159126&width=350",
+    "price": "R$ 24,91",
+    "originalPrice": "R$ 99,00",
+    "promotion": "- 75%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Mortal Kombat 11",
+    "image": "//thunderkeys.com/cdn/shop/files/Mortal-Kombat-11.png?v=1702719672&width=390",
+    "price": "R$ 15,21",
+    "originalPrice": "R$ 299,99",
+    "promotion": "- 95%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Naruto Shippuden Ultimate Ninja Storm 4",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-naruto1.png?v=1695682309&width=350",
+    "price": "R$ 37,21",
+    "originalPrice": "R$ 77,50",
+    "promotion": "- 52%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Mad Max",
+    "image": "//thunderkeys.com/cdn/shop/files/30.png?v=1698194475&width=390",
+    "price": "R$ 17,15",
+    "originalPrice": "R$ 89,99",
+    "promotion": "- 81%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Payday 2",
+    "image": "//thunderkeys.com/cdn/shop/files/Payday-2-1.png?v=1702290092&width=390",
+    "price": "R$ 9,71",
+    "originalPrice": "R$ 32,99",
+    "promotion": "- 71%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Mortal Kombat 11 Ultimate Edition",
+    "image": "//thunderkeys.com/cdn/shop/products/ulti_bd5b9526-f8ae-4104-9345-4cff920835f0.png?v=1646330258&width=390",
+    "price": "R$ 25,88",
+    "originalPrice": "R$ 279,99",
+    "promotion": "- 91%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Injustice 2 Legendary Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/159.png?v=1698891647&width=390",
+    "price": "R$ 18,44",
+    "originalPrice": "R$ 279,99",
+    "promotion": "- 93%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Resident Evil 2 / Biohazard RE2",
+    "image": "//thunderkeys.com/cdn/shop/files/Resident-Evil-2-Biohazard-re2.png?v=1700650657&width=390",
+    "price": "R$ 37,21",
+    "originalPrice": "R$ 169,90",
+    "promotion": "- 78%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dead Island Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/60.png?v=1695950913&width=390",
+    "price": "R$ 15,21",
+    "originalPrice": "R$ 99,00",
+    "promotion": "- 85%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "The Evil Within",
+    "image": "//thunderkeys.com/cdn/shop/files/34.png?v=1695590765&width=390",
+    "price": "R$ 11,32",
+    "originalPrice": "R$ 49,99",
+    "promotion": "- 77%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  }
+]

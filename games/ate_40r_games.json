@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Resident Evil 2 / Biohazard RE2",
+    "image": "//thunderkeys.com/cdn/shop/files/Resident-Evil-2-Biohazard-re2.png?v=1700650657&width=390",
+    "price": "R$ 37,21",
+    "originalPrice": "R$ 169,90",
+    "promotion": "- 78%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Naruto Shippuden Ultimate Ninja Storm 4",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-naruto1.png?v=1695682309&width=350",
+    "price": "R$ 37,21",
+    "originalPrice": "R$ 77,50",
+    "promotion": "- 52%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Rise of the Tomb Raider 20th Anniversary Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/31.png?v=1698195027&width=390",
+    "price": "R$ 30,09",
+    "originalPrice": "R$ 124,99",
+    "promotion": "- 76%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Max Payne 3 Complete Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Rockstar_1_989795be-543e-4303-9715-77c00954e2e5.png?v=1700608639&width=390",
+    "price": "R$ 34,62",
+    "originalPrice": "R$ 105,00",
+    "promotion": "- 67%",
+    "platform": "Global, Rockstar",
+    "isDLC": false
+  },
+  {
+    "name": "Assetto Corsa Ultimate Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Assetto-Corsa-Ultimate-Edition--logo.png?v=1704380215&width=390",
+    "price": "R$ 35,27",
+    "originalPrice": "R$ 262,93",
+    "promotion": "- 87%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "One Piece World Seeker Deluxe Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_1_f4565767-6ecd-43c2-a0e9-37a0c6d98a3a.png?v=1704930763&width=390",
+    "price": "R$ 35,27",
+    "originalPrice": "R$ 349,90",
+    "promotion": "- 90%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "The Evil Within 2",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_3_baab79f2-51ac-4e83-a08d-9e919033f36c.png?v=1701350270&width=390",
+    "price": "R$ 32,03",
+    "originalPrice": "R$ 155,00",
+    "promotion": "- 79%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Metro Exodus",
+    "image": "//thunderkeys.com/cdn/shop/files/XXX.png?v=1695687096&width=390",
+    "price": "R$ 30,09",
+    "originalPrice": "R$ 149,00",
+    "promotion": "- 80%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Devil May Cry 4 Special Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_11_a00765a7-da32-4d95-a04c-57c39600f8c7.png?v=1704205500&width=390",
+    "price": "R$ 31,38",
+    "originalPrice": "R$ 83,90",
+    "promotion": "- 63%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Assassin's Creed Rogue",
+    "image": "//thunderkeys.com/cdn/shop/files/Assassin_s-Creed-Rogue.png?v=1700759765&width=390",
+    "price": "R$ 37,21",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 38%",
+    "platform": "Global, Ubisoft Connect",
+    "isDLC": false
+  },
+  {
+    "name": "Sonic & All-Stars Racing Transformed Collection",
+    "image": "//thunderkeys.com/cdn/shop/files/Sonic-_-All-Stars-Racing-Transformed-Collection-logo-1.png?v=1700908406&width=390",
+    "price": "R$ 30,09",
+    "originalPrice": "R$ 99,50",
+    "promotion": "- 70%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Kingdom Come Deliverance Royal Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/kiong.png?v=1699120492&width=390",
+    "price": "R$ 30,09",
+    "originalPrice": "R$ 199,00",
+    "promotion": "- 85%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Kingdoms of Amalur: Re-Reckoning",
+    "image": "//thunderkeys.com/cdn/shop/products/rere.png?v=1646065332&width=390",
+    "price": "R$ 32,35",
+    "originalPrice": "R$ 94,95",
+    "promotion": "- 66%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  }
+]

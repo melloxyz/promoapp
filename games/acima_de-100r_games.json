@@ -1,0 +1,110 @@
+[
+  {
+    "name": "EA Sports FC 24",
+    "image": "//thunderkeys.com/cdn/shop/files/EA-APP_ccbeea38-51a2-4ee4-adf8-96b2505e1d00.png?v=1698792360&width=1174",
+    "price": "R$ 132,65",
+    "originalPrice": "R$ 359,00",
+    "promotion": "- 63%",
+    "platform": "Global, EA App",
+    "isDLC": false
+  },
+  {
+    "name": "Dark Souls 3",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-dark-souls-3-a.png?v=1704232902&width=350",
+    "price": "R$ 116,47",
+    "originalPrice": "R$ 229,90",
+    "promotion": "- 49%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Remnant II",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-remnant2-1.png?v=1695771960&width=350",
+    "price": "R$ 119,71",
+    "originalPrice": "R$ 199,99",
+    "promotion": "- 40%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Hell Let Loose",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-hell-let-loose1.png?v=1695686491&width=350",
+    "price": "R$ 134,27",
+    "originalPrice": "R$ 214,90",
+    "promotion": "- 38%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Cities Skylines II Day One Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-cities-skylines-day-one-edition1.png?v=1699228721&width=350",
+    "price": "R$ 186,03",
+    "originalPrice": "R$ 199,99",
+    "promotion": "- 7%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dying Light 2 Stay Human",
+    "image": "//thunderkeys.com/cdn/shop/products/human_a207393d-293f-4d22-b32e-07c3c9822dc8.png?v=1680362583&width=350",
+    "price": "R$ 131,68",
+    "originalPrice": "R$ 249,00",
+    "promotion": "- 47%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Remnant II - Ultimate Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_4_d761a1fc-8c20-4749-a30c-dcc7f6437295.png?v=1696181253&width=390",
+    "price": "R$ 169,86",
+    "originalPrice": "R$ 279,99",
+    "promotion": "- 39%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Monster Hunter Rise & Sunbreak",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-monster-hunter-rise-sunbreak1.png?v=1698883717&width=350",
+    "price": "R$ 126,18",
+    "originalPrice": "R$ 249,00",
+    "promotion": "- 49%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Guild Wars 2 - End of Dragons DLC",
+    "image": "//thunderkeys.com/cdn/shop/files/Guild-Wars-2---End-of-Dragons-DLC-1.png?v=1701894044&width=390",
+    "price": "R$ 119,39",
+    "originalPrice": "R$ 150,67",
+    "promotion": "- 21%",
+    "platform": "Global, NCSoft",
+    "isDLC": true
+  },
+  {
+    "name": "The Last of Us Part I Digital Deluxe Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_84c3fedb-0a6b-412d-ad98-cd19c1ffb91e.png?v=1705092451&width=390",
+    "price": "R$ 209,33",
+    "originalPrice": "R$ 299,90",
+    "promotion": "- 30%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Railway Empire 2 Deluxe Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-railway-empire1.png?v=1703447389&width=350",
+    "price": "R$ 121,97",
+    "originalPrice": "R$ 269,00",
+    "promotion": "- 55%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Starfield Premium Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/ssssss.png?v=1695692338&width=390",
+    "price": "R$ 402,80",
+    "originalPrice": "R$ 429,00",
+    "promotion": "- 6%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  }
+]

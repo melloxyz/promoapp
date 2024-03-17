@@ -1,0 +1,209 @@
+[
+  {
+    "name": "Mortal Kombat 11",
+    "image": "//thunderkeys.com/cdn/shop/files/Mortal-Kombat-11.png?v=1702719672&width=390",
+    "price": "R$ 15,21",
+    "originalPrice": "R$ 299,99",
+    "promotion": "- 95%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Injustice 2 Legendary Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/159.png?v=1698891647&width=390",
+    "price": "R$ 18,44",
+    "originalPrice": "R$ 279,99",
+    "promotion": "- 93%",
+    "platform": "ROW, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Mad Max",
+    "image": "//thunderkeys.com/cdn/shop/files/30.png?v=1698194475&width=390",
+    "price": "R$ 17,15",
+    "originalPrice": "R$ 89,99",
+    "promotion": "- 81%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Assetto Corsa",
+    "image": "//thunderkeys.com/cdn/shop/files/Assetto-Corsa-logo.png?v=1701080003&width=390",
+    "price": "R$ 19,41",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 68%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dead Island Definitive Collection",
+    "image": "//thunderkeys.com/cdn/shop/files/32.png?v=1698195958&width=390",
+    "price": "R$ 19,09",
+    "originalPrice": "R$ 223,00",
+    "promotion": "- 91%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "The Evil Within",
+    "image": "//thunderkeys.com/cdn/shop/files/34.png?v=1695590765&width=390",
+    "price": "R$ 11,32",
+    "originalPrice": "R$ 49,99",
+    "promotion": "- 77%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Sleeping Dogs Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Sleeping-Dogs-Definitive-Edition-logo.png?v=1700301497&width=390",
+    "price": "R$ 19,09",
+    "originalPrice": "R$ 55,99",
+    "promotion": "- 66%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dishonored Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/products/dixo.png?v=1644840665&width=390",
+    "price": "R$ 11,97",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 80%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Middle-earth Shadow of Mordor GOTY",
+    "image": "//thunderkeys.com/cdn/shop/products/goty_2a760f60-7c81-4dd6-9b6e-693d11e5dd05.png?v=1646220135&width=390",
+    "price": "R$ 19,41",
+    "originalPrice": "R$ 89,90",
+    "promotion": "- 78%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Sniper Elite 3",
+    "image": "//thunderkeys.com/cdn/shop/files/LITE.png?v=1701993800&width=390",
+    "price": "R$ 17,15",
+    "originalPrice": "R$ 88,99",
+    "promotion": "- 81%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dead Island Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/60.png?v=1695950913&width=390",
+    "price": "R$ 15,21",
+    "originalPrice": "R$ 99,00",
+    "promotion": "- 85%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Assassin's Creed II",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-assassins-creed-2-1.png?v=1697238872&width=350",
+    "price": "R$ 18,44",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 69%",
+    "platform": "Global, Ubisoft Connect",
+    "isDLC": false
+  },
+  {
+    "name": "Metro Redux Bundle",
+    "image": "//thunderkeys.com/cdn/shop/files/redutor.png?v=1696467911&width=390",
+    "price": "R$ 13,91",
+    "originalPrice": "R$ 99,00",
+    "promotion": "- 86%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Just Cause 3",
+    "image": "//thunderkeys.com/cdn/shop/files/Just-Cause-3-1.png?v=1703087422&width=390",
+    "price": "R$ 16,18",
+    "originalPrice": "R$ 42,99",
+    "promotion": "- 62%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "MX vs ATV Supercross Encore",
+    "image": "//thunderkeys.com/cdn/shop/files/44.png?v=1695612099&width=390",
+    "price": "R$ 10,35",
+    "originalPrice": "R$ 55,99",
+    "promotion": "- 82%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dakar 18",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-dakar1.png?v=1697414881&width=350",
+    "price": "R$ 17,15",
+    "originalPrice": "R$ 149,00",
+    "promotion": "- 88%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Human Fall Flat",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-human-fall-flat1.png?v=1697150721&width=350",
+    "price": "R$ 16,18",
+    "originalPrice": "R$ 37,99",
+    "promotion": "- 57%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Pure Farming 18 Deluxe",
+    "image": "//thunderkeys.com/cdn/shop/files/Pure-Farming-18-Deluxe.png?v=1702603299&width=390",
+    "price": "R$ 11,32",
+    "originalPrice": "R$ 88,99",
+    "promotion": "- 87%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Assassin's Creed Directors Cut Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-ubisoft-assassins-creed1.png?v=1702394683&width=350",
+    "price": "R$ 18,44",
+    "originalPrice": "R$ 59,99",
+    "promotion": "- 69%",
+    "platform": "Global, Ubisoft Connect",
+    "isDLC": false
+  },
+  {
+    "name": "Homefront: The Revolution",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-homefront-the-revolution1.png?v=1696797751&width=350",
+    "price": "R$ 16,82",
+    "originalPrice": "R$ 99,99",
+    "promotion": "- 83%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Call of Juarez",
+    "image": "//thunderkeys.com/cdn/shop/files/Call-of-Juarez-logo.png?v=1701165166&width=390",
+    "price": "R$ 10,35",
+    "originalPrice": "R$ 29,99",
+    "promotion": "- 65%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Borderlands - GOTY DLC",
+    "image": "//thunderkeys.com/cdn/shop/files/GOTY.png?v=1696029172&width=390",
+    "price": "R$ 16,18",
+    "originalPrice": "R$ 69,99",
+    "promotion": "- 77%",
+    "platform": "Global, Steam",
+    "isDLC": true
+  },
+  {
+    "name": "Age of Empires Definitive Edition GLOBAL",
+    "image": "//thunderkeys.com/cdn/shop/files/gasdsadsa.png?v=1695685638&width=390",
+    "price": "R$ 18,44",
+    "originalPrice": "R$ 35,95",
+    "promotion": "- 49%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  }
+]

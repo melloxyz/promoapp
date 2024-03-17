@@ -1,0 +1,101 @@
+[
+  {
+    "name": "The Elder Scrolls V Skyrim Special Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_1_06b22ce9-1c12-4957-bba5-219d14e53c3d.png?v=1701346977&width=390",
+    "price": "R$ 60,83",
+    "originalPrice": "R$ 149,00",
+    "promotion": "- 59%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Dark Souls 3 - Season Pass DLC",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_43.png?v=1703801680&width=390",
+    "price": "R$ 63,09",
+    "originalPrice": "R$ 94,90",
+    "promotion": "- 34%",
+    "platform": "Global, Steam",
+    "isDLC": true
+  },
+  {
+    "name": "Assassin's Creed IV Black Flag Gold Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Assassin_s-Creed-IV-Black-Flag-Gold-Edition-1.png?v=1702934597&width=390",
+    "price": "R$ 63,09",
+    "originalPrice": "R$ 119,99",
+    "promotion": "- 47%",
+    "platform": "Global, Ubisoft Connect",
+    "isDLC": false
+  },
+  {
+    "name": "Payday 3 LATAM",
+    "image": "//thunderkeys.com/cdn/shop/files/daypast.png?v=1699120805&width=390",
+    "price": "R$ 62,44",
+    "originalPrice": "R$ 199,00",
+    "promotion": "- 69%",
+    "platform": "America Restricted, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Battlefield 1 Revolution Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Battlefield-1-Revolution-Edition-logo.png?v=1699613454&width=390",
+    "price": "R$ 67,94",
+    "originalPrice": "R$ 199,00",
+    "promotion": "- 66%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Fallout 4 GOTY",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-fallout41.png?v=1699225832&width=350",
+    "price": "R$ 60,83",
+    "originalPrice": "R$ 119,99",
+    "promotion": "- 49%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "F1 2022",
+    "image": "//thunderkeys.com/cdn/shop/files/EA-APP_1_0da67e0e-c11a-4f96-9634-0b686f18d801.png?v=1707832471&width=390",
+    "price": "R$ 67,94",
+    "originalPrice": "R$ 249,00",
+    "promotion": "- 73%",
+    "platform": "Global, EA App",
+    "isDLC": false
+  },
+  {
+    "name": "Ad Infinitum",
+    "image": "//thunderkeys.com/cdn/shop/files/logo_4e41617f-7292-4cbc-ba08-3c5f43c7871d.png?v=1704917705&width=390",
+    "price": "R$ 63,09",
+    "originalPrice": "R$ 107,99",
+    "promotion": "- 42%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "I Am Setsuna",
+    "image": "//thunderkeys.com/cdn/shop/products/set.png?v=1646241263&width=390",
+    "price": "R$ 65,68",
+    "originalPrice": "R$ 72,99",
+    "promotion": "- 10%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Super Robot Wars 30",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-super-robot-wars-30-a.png?v=1703395063&width=350",
+    "price": "R$ 68,91",
+    "originalPrice": "R$ 249,90",
+    "promotion": "- 72%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Mass Effect Legendary Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/Mass-Effect-Legendary-Edition-LOGO.png?v=1701251833&width=390",
+    "price": "R$ 69,56",
+    "originalPrice": "R$ 299,80",
+    "promotion": "- 77%",
+    "platform": "Global, Xbox One / Xbox Series XS",
+    "isDLC": false
+  }
+]

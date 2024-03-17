@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Metro 2033 Redux",
+    "image": "//thunderkeys.com/cdn/shop/files/14.png?v=1695692209&width=390",
+    "price": "R$ 11,65",
+    "originalPrice": "R$ 99,00",
+    "promotion": "- 88%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Age of Empires III Definitive Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/fedasas.png?v=1695685775&width=390",
+    "price": "R$ 22,97",
+    "originalPrice": "R$ 36,99",
+    "promotion": "- 38%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Metro 2033 Redux",
+    "image": "//thunderkeys.com/cdn/shop/files/48.png?v=1695688790&width=390",
+    "price": "R$ 27,50",
+    "originalPrice": "R$ 39,00",
+    "promotion": "- 29%",
+    "platform": "Global, Xbox One",
+    "isDLC": false
+  },
+  {
+    "name": "7 Days to Die",
+    "image": "//thunderkeys.com/cdn/shop/files/7DAYSTODIEGAMECOVER.png?v=1695390664&width=390",
+    "price": "R$ 28,79",
+    "originalPrice": "R$ 44,99",
+    "promotion": "- 36%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  }
+]

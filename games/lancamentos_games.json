@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Cities Skylines II Day One Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-cities-skylines-day-one-edition1.png?v=1699228721&width=350",
+    "price": "R$ 186,03",
+    "originalPrice": "R$ 199,99",
+    "promotion": "- 7%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Lies of P",
+    "image": "//thunderkeys.com/cdn/shop/files/jogo-steam-lies-of-p1.png?v=1698369849&width=350",
+    "price": "R$ 220,01",
+    "originalPrice": "R$ 249,90",
+    "promotion": "- 12%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Lies of P - Deluxe Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_1_df6b87ea-fce2-4df3-9fc5-9cc0e453c8dd.png?v=1698447407&width=390",
+    "price": "R$ 276,62",
+    "originalPrice": "R$ 300,80",
+    "promotion": "- 8%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Starfield",
+    "image": "//thunderkeys.com/cdn/shop/files/Starfield.png?v=1702689420&width=390",
+    "price": "R$ 273,39",
+    "originalPrice": "R$ 299,00",
+    "promotion": "- 9%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Sweet Dreams Alex",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_3_82f17dff-1351-4114-affb-3442933db915.png?v=1698448325&width=390",
+    "price": "R$ 36,56",
+    "originalPrice": "R$ 46,99",
+    "promotion": "- 22%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Turtle Odyssey",
+    "image": "//thunderkeys.com/cdn/shop/files/STEAM-DLC1_1_28.png?v=1698448383&width=390",
+    "price": "R$ 4,53",
+    "originalPrice": "R$ 6,29",
+    "promotion": "- 28%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Sparkle 2 Evo",
+    "image": "//thunderkeys.com/cdn/shop/files/steam_e768cc49-2bd4-44a0-a05e-1cd380297d83.png?v=1698446445&width=390",
+    "price": "R$ 4,53",
+    "originalPrice": "R$ 10,49",
+    "promotion": "- 57%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  },
+  {
+    "name": "Starfield Premium Edition",
+    "image": "//thunderkeys.com/cdn/shop/files/ssssss.png?v=1695692338&width=390",
+    "price": "R$ 402,80",
+    "originalPrice": "R$ 429,00",
+    "promotion": "- 6%",
+    "platform": "Global, Steam",
+    "isDLC": false
+  }
+]
